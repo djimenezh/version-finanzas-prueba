@@ -1,2 +1,2 @@
 const SUPABASE_URL = "https://mgfnfeqrcbunnerzcvl.supabase.co";
-const SUPABASE_KEY = ""; // PEGA AQUI TU PUBLISHABLE KEY
+const SUPABASE_KEY = "sb_publishable_WAUfSeuKdjzZt5weuJc8-g_Fi0OEJkT"; // PEGA AQUI TU PUBLISHABLE KEY
